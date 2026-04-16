@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Copa trofeo -->
+    <path android:fillColor="#47FFFFFF"
+        android:pathData="M24,16 L24,38 Q24,52 40,54 Q56,52 56,38 L56,16 Z"/>
+    <!-- Asa izquierda -->
+    <path android:fillColor="#00000000" android:strokeColor="#4DFFFFFF" android:strokeWidth="4"
+        android:pathData="M24,22 Q14,22 14,32 Q14,40 24,40"/>
+    <!-- Asa derecha -->
+    <path android:fillColor="#00000000" android:strokeColor="#4DFFFFFF" android:strokeWidth="4"
+        android:pathData="M56,22 Q66,22 66,32 Q66,40 56,40"/>
+    <!-- Pie del trofeo -->
+    <path android:fillColor="#40FFFFFF"
+        android:pathData="M35,54 L35,62 L45,62 L45,54 Z"/>
+    <path android:fillColor="#40FFFFFF"
+        android:pathData="M29,62 L51,62 L51,66 L29,66 Z"/>
+    <!-- Estrella dorada dentro -->
+    <path android:fillColor="#B3FFCC00"
+        android:pathData="M40,24 L42,30 L48,30 L43,34 L45,40 L40,36 L35,40 L37,34 L32,30 L38,30 Z"/>
+    <!-- Destellos -->
+    <path android:fillColor="#80FFCC00"
+        android:pathData="M18,12 L19,15 L22,12 L19,9 Z"/>
+    <path android:fillColor="#80FFCC00"
+        android:pathData="M62,10 L63,13 L66,10 L63,7 Z"/>
+    <path android:fillColor="#66FFCC00"
+        android:pathData="M68,20 L69,22 L71,20 L69,18 Z"/>
+</vector>

@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cuerpo guindilla -->
+    <path android:fillColor="#CC2200"
+        android:pathData="M54,76 C42,76 33,67 31,57 C29,47 34,37 41,33 C43,32 46,32 47,33 C47,33 46,37 47,41 C48,44 51,46 54,46 C57,46 60,44 61,41 C62,37 61,33 61,33 C62,32 65,32 67,33 C74,37 79,47 77,57 C75,67 66,76 54,76Z"/>
+    <!-- Brillo guindilla -->
+    <path android:fillColor="#FF4422"
+        android:pathData="M41,53 C41,53 38,59 40,65 C41,62 42,57 42,53Z"/>
+    <!-- Tallo -->
+    <path android:fillColor="#33AA33"
+        android:pathData="M54,33 C54,33 51,26 55,22 C57,19 62,18 64,21 C61,21 59,24 59,27 C59,31 57,33 54,33Z"/>
+    <!-- Llama izquierda -->
+    <path android:fillColor="#FF7700"
+        android:pathData="M45,40 C45,40 40,48 41,55 C42,60 46,63 50,60 C47,58 46,54 47,49 C48,45 45,40 45,40Z"/>
+    <!-- Llama derecha -->
+    <path android:fillColor="#FF7700"
+        android:pathData="M63,40 C63,40 68,48 67,55 C66,60 62,63 58,60 C61,58 62,54 61,49 C60,45 63,40 63,40Z"/>
+    <!-- Llama central -->
+    <path android:fillColor="#FF5500"
+        android:pathData="M54,36 C54,36 49,45 49,52 C49,57 51,60 54,60 C57,60 59,57 59,52 C59,45 54,36 54,36Z"/>
+    <!-- Punta dorada -->
+    <path android:fillColor="#FFCC00"
+        android:pathData="M54,36 C54,36 51,43 51,48 C51,51 52,53 54,53 C56,53 57,51 57,48 C57,43 54,36 54,36Z"/>
+    <!-- Núcleo blanco -->
+    <path android:fillColor="#FFEEAA"
+        android:pathData="M54,36 C54,36 52,41 52,45 C52,47 53,48 54,48 C55,48 56,47 56,45 C56,41 54,36 54,36Z"/>
+</vector>

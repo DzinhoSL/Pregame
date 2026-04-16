@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Carta trasera inclinada (reto) -->
+    <path android:fillColor="#26FFFFFF"
+        android:pathData="M20,20 L52,14 L58,46 L26,52 Z"/>
+    <path android:fillColor="#40FFFFFF"
+        android:pathData="M22,22 L50,17 L55,44 L27,49 Z"/>
+    <!-- Símbolo "?" en carta de reto -->
+    <path android:fillColor="#66FFFFFF" android:strokeColor="#66FFFFFF" android:strokeWidth="2"
+        android:pathData="M36,22 Q40,18 44,22 Q48,26 44,31 L41,34 L41,37 M41,39 L41,41"/>
+    <!-- Carta principal (verdad) -->
+    <path android:fillColor="#33FFFFFF" android:strokeColor="#59FFFFFF" android:strokeWidth="1.5"
+        android:pathData="M26,28 L56,28 L56,62 L26,62 Z"/>
+    <!-- Check mark verde -->
+    <path android:fillColor="#00000000" android:strokeColor="#99FFFFFF" android:strokeWidth="3"
+        android:pathData="M31,45 L37,52 L49,38"/>
+    <!-- Líneas de texto simuladas -->
+    <path android:fillColor="#33FFFFFF"
+        android:pathData="M31,32 L51,32 L51,34 L31,34 Z"/>
+    <path android:fillColor="#26FFFFFF"
+        android:pathData="M31,36 L46,36 L46,38 L31,38 Z"/>
+</vector>

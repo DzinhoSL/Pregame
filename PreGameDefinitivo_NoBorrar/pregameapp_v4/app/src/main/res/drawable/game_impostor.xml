@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    <!-- Cuerpo -->
+    <path android:fillColor="#40FFFFFF"
+        android:pathData="M28,72 L28,52 C28,46 33,42 40,42 C47,42 52,46 52,52 L52,72 Z"/>
+    <!-- Cabeza -->
+    <path android:fillColor="#4DFFFFFF"
+        android:pathData="M40,42 m-9,0 a9,11 0,1 1,18 0 a9,11 0,1 1,-18 0"/>
+    <!-- Sombrero ala -->
+    <path android:fillColor="#59FFFFFF"
+        android:pathData="M22,32 L58,32 L55,28 L25,28 Z"/>
+    <!-- Sombrero copa -->
+    <path android:fillColor="#59FFFFFF"
+        android:pathData="M27,28 L27,20 L53,20 L53,28 Z"/>
+    <!-- Lupa círculo -->
+    <path android:fillColor="#00000000" android:strokeColor="#80FFFFFF" android:strokeWidth="3"
+        android:pathData="M56,52 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0"/>
+    <!-- Lupa mango -->
+    <path android:fillColor="#80FFFFFF"
+        android:pathData="M63,60 L70,68 L68,70 L61,62 Z"/>
+    <!-- Ojos rojos -->
+    <path android:fillColor="#CCCC0000"
+        android:pathData="M35,34 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0"/>
+    <path android:fillColor="#CCCC0000"
+        android:pathData="M45,34 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0"/>
+</vector>
